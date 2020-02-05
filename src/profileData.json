@@ -1,0 +1,108 @@
+{
+	"landing": {
+		"firstName": "Julian ",
+		"lastName": "Villegas",
+		"location": "Bogotá D.C · COL · +57-3508006779 · ",
+		"bio": " I am a passionate person about technology, i have three professional degrees in colombia related to systems engineering and student in training for full stack developer at holberton School Bogotá. My tech stack includes Python with Odoo ERP, Sql, Html, Css and Javascript, System POS with Oracle Simphony (before Micros). I manage agile methodologies in software projects, Cloud services in AWS, Digital Ocean, versioning control with git and containers with Docker.",
+    "email": "julian.villegasplus@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/julianvillegas25/",
+	"github": "https://github.com/julianchok25",
+	"twitter": "https://twitter.com/julianchok25",
+	"instagram": "https://www.instagram.com/julianchoville/",
+		"medium": "https://medium.com/@david.villegasplus"
+	},
+	"experience": [
+		{
+				"position": "Data Processing Operator (DPO) and IMDB (Data Base)",
+				"organization": "The nielsen Company Colombia",
+				"aboutWork": "Responsible for organize and process the databases to deliver to the client. Testing new software to release production",
+				"fromDate": "June 2012",
+				"toDate": "June 2014"
+		},
+		{
+			"position": "Support Technologist",
+			"organization": "Control Online S.A.S",
+			"aboutWork": "Manage and parameterize document management software. Provide support, train staff, run tests, raise requirements and document the application process (User's Manual guide)",
+			"fromDate": "August 2014",
+			"toDate": "July 2015"
+		},
+		{
+			"position": "POS consultant (Oracle Simphony) and ERP with Odoo Community",
+			"organization": "Consultores Doble A S.A.S",
+			"aboutWork": "Improve and develop custom modules for Odoo versions 8-10. Deploy software on cloud services and On premise, manage data bases, provide support and customize views according to customer requirements",
+			"fromDate": "March 2016",
+			"toDate": "November 2017"
+		},
+		{
+			"position": "Lead Implementation and development for Odoo ERP version 9 and 10 Community Edition.",
+			"organization": "IT Soluciones S.A.S",
+			"aboutWork": "Model business processes, develop and customize modules, raise requirements, provide support and manage cloud services",
+			"fromDate": "March 2018",
+			"toDate": "August 2019"
+		}
+	],
+	"education": [{
+			"university": "Escuela Tecnológica Instituto Técnico Central",
+			"degree": "Professional systems technician and technologist",
+			"gpa": "12.34",
+			"fromDate": "July 2009",
+			"toDate": "December 2013"
+		},
+		{
+			"university": "Escuela Tecnológica Instituto Técnico Central",
+			"degree": "Systems Engineer",
+			"gpa": "12.34",
+			"fromDate": "July 2014",
+			"toDate": "July 2019"
+		},
+		{
+			"university": "Holberton School",
+			"degree": "Full Stack Developer",
+			"gpa": "12.34",
+			"fromDate": "September 2019",
+			"toDate": "Present"
+		}
+	],
+	"skills": [{
+			"name": "HTML5"
+		},
+		{
+			"name": "CSS"
+		},
+		{
+			"name": "Javascript"
+		},
+		{
+			"name": "Odoo"
+		},
+		{
+			"name": "C"
+		},
+		{
+			"name": "Python"
+		},
+		{
+			"name": "Xml"
+		},
+		{
+			"name": "Cloud Services"
+		},
+		{
+			"name": "Sql"
+		}
+	],
+	"interests": {
+		"paragraphOne": "Improve skills and learn new technology frameworks, programming languages, AI, machine learning and other tools.",
+		"paragraphTwo": "I like to colaborate in Tech projects, make a great team, learn english and french languages and in my free time, i like to play soccer."
+	},
+	"awards": [{
+			"awardDetail": "Mention given to good results and positive value to the company / The Nielsen Company Colombia"
+		},
+		{
+			"awardDetail": "Oracle Hospitality for Food and Beverage Simphony FE Implementation Specialist / ORACLE CLOUD UNIVERSITY"
+		},
+		{
+			"awardDetail": "American English level I to IV in SENA"
+		}
+	]
+}
